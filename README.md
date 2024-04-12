@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LornaAthiambo
-- 👀 I’m interested in software Engineering
-- 🌱 I’m currently learning Coding
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Developing Software
 - 📫 How to reach me aumalorna@gmail.com
 - 😄 Pronouns: She
