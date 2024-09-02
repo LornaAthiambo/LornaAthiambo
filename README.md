@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Developing Software
 - 📫 How to reach me aumalorna@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: I love Swimming
+- ⚡ Fun fact: I love Coding
 
 <!---
 LornaAthiambo/LornaAthiambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
